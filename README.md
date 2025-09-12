@@ -4,7 +4,7 @@
 A simple Python game where the computer picks a random number between 1 and 100, and you try to guess it.
 
 ## Features
-- Random number between 1 and 100
+- Random number between 1 and 99
 - Feedback ("too high" / "too low") after each guess
 - Shows how many attempts you needed
 
